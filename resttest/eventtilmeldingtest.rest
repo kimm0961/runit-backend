@@ -1,0 +1,35 @@
+@port = 5021
+@route = eventtilmelding
+
+### 
+
+GET http://localhost:{{port}}/{{route}}
+
+###
+
+GET http://localhost:{{port}}/{{route}}/5f3ed8418a099d2c20d226d3
+
+
+###
+
+POST http://localhost:{{port}}/{{route}}
+content-type: application/json
+
+{
+    "email": "test@test.dk",
+    "event": "5f3fd2207e525a19cce3b687"
+}
+
+###
+
+PUT http://localhost:{{port}}/{{route}}/admin/5f3fd2357e525a19cce3b688
+content-type: application/json
+
+{
+    "email": "testigen@testigen.dk",
+    "event": "5f3fd2207e525a19cce3b687"
+}
+
+###
+
+DELETE http://localhost:{{port}}/{{route}}/admin/5f3ee04624d1033018ca1254

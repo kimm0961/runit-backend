@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "5f42b2e7e3f6b36c38a9c63b"
+  },
+  "navn": "Mia Jensen",
+  "emailadresse": "mj@jdkfj.dk",
+  "emne": "Forslag",
+  "besked": "Kunne I evt. oprette et løb kun for kvinder?",
+  "modtagetdato": {
+    "$date": "2020-08-23T18:18:15.156Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f589b22dfc54b4f54fffad1"
+  },
+  "navn": "dasdas",
+  "emailadresse": "asdsad",
+  "emne": "asdsad",
+  "besked": "asdsad",
+  "modtagetdato": {
+    "$date": "2020-09-09T09:06:42.216Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f589b79dfc54b4f54fffad2"
+  },
+  "navn": "dadsa",
+  "emailadresse": "sadsad",
+  "emne": "asdsad",
+  "besked": "asdsd",
+  "modtagetdato": {
+    "$date": "2020-09-09T09:08:09.537Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f589b91dfc54b4f54fffad3"
+  },
+  "emailadresse": "adasd",
+  "emne": "asdsad",
+  "besked": "dsdsad",
+  "navn": "ddd222",
+  "modtagetdato": {
+    "$date": "2020-09-09T09:08:33.187Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f58a1b6dfc54b4f54fffad5"
+  },
+  "navn": "ddddasdsada",
+  "emailadresse": "asdsadasd",
+  "emne": "sdadsad",
+  "besked": "asdsadsad",
+  "modtagetdato": {
+    "$date": "2020-09-09T09:34:46.066Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f58a1dadfc54b4f54fffad6"
+  },
+  "navn": "ddddasdsad",
+  "emailadresse": "adsadsad",
+  "emne": "sadsads",
+  "besked": "adsadsad",
+  "modtagetdato": {
+    "$date": "2020-09-09T09:35:22.021Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f58a309dfc54b4f54fffad7"
+  },
+  "navn": "dddasdksajdk",
+  "emailadresse": "jfkjdfk",
+  "emne": "jdkfjdkfj",
+  "besked": "jdfkdlsjklf",
+  "modtagetdato": {
+    "$date": "2020-09-09T09:40:25.417Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f58a32bdfc54b4f54fffad8"
+  },
+  "navn": "dddadasdssdas",
+  "emailadresse": "jlkjlk",
+  "emne": "kjlkj",
+  "besked": "jlkjljk",
+  "modtagetdato": {
+    "$date": "2020-09-09T09:40:59.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f58a760dfc54b4f54fffae0"
+  },
+  "navn": "jdjfkdjf888",
+  "emailadresse": "djfkdfj",
+  "emne": "jdkjdkfj",
+  "besked": "898394839",
+  "modtagetdato": {
+    "$date": "2020-09-09T09:58:56.562Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5a6395dfc54b4f54fffaf4"
+  },
+  "navn": "Marianne",
+  "emailadresse": "djfkdj@jkdjf.dk",
+  "emne": "Her er emnet",
+  "besked": "Hej",
+  "modtagetdato": {
+    "$date": "2020-09-10T17:34:13.899Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5b24bedfc54b4f54fffafe"
+  },
+  "navn": "Marianne",
+  "emailadresse": "jfkdj@jdkf.dk",
+  "emne": "Tester igen igen igen",
+  "besked": "djfkdjfdkjf",
+  "modtagetdato": {
+    "$date": "2020-09-11T07:18:22.644Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5b263fdfc54b4f54fffaff"
+  },
+  "navn": "Marianne",
+  "emailadresse": "mmm@mm.dk",
+  "emne": "Et emne",
+  "besked": "En besked",
+  "modtagetdato": {
+    "$date": "2020-09-11T07:24:47.542Z"
+  },
+  "__v": 0
+}]

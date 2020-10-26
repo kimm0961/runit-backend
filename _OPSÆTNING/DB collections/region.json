@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5f3f613bb269265be85496dd"
+  },
+  "regionnavn": "Midtjylland",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3fc6a432880d01a828b7ce"
+  },
+  "regionnavn": "Nordjylland",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e4e4810e2232e03cf66d"
+  },
+  "regionnavn": "Sydjylland",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e4ed810e2232e03cf66e"
+  },
+  "regionnavn": "Fyn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e4f5810e2232e03cf66f"
+  },
+  "regionnavn": "Sjælland",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e4fe810e2232e03cf670"
+  },
+  "regionnavn": "Bornholm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5bf9577f1bda3f88915bd7"
+  },
+  "regionnavn": "Vestjylland",
+  "__v": 0
+}]

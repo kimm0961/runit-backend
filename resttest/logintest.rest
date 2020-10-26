@@ -1,0 +1,21 @@
+@port = 5021
+@route = login
+
+
+### 
+
+POST http://localhost:{{port}}/{{route}}/login
+content-type: application/json
+
+{
+    "brugernavn": "admin",
+    "password": "admin123"
+}
+
+###
+
+GET http://localhost:{{port}}/{{route}}/logout
+
+###
+
+GET http://localhost:{{port}}/{{route}}/loggedin

@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "5f42ae3e43d79c43dc3ef679"
+  },
+  "email": "test55@test.dk",
+  "event": {
+    "$oid": "5f3fd2207e525a19cce3b687"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e23dec8e43716cb8c126"
+  },
+  "email": "test44@test.dk",
+  "event": {
+    "$oid": "5f3fd2207e525a19cce3b687"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4678d6ded01b033c83af3a"
+  },
+  "email": "test44@test.dk",
+  "event": {
+    "$oid": "5f42fb2a810e2232e03cf680"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f467909ded01b033c83af3b"
+  },
+  "email": "test45@test.dk",
+  "event": {
+    "$oid": "5f42fb2a810e2232e03cf680"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f46862ecd03dc3554daa290"
+  },
+  "email": "test@test.dk",
+  "event": {
+    "$oid": "5f3fd1a77e525a19cce3b685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f46865dcd03dc3554daa291"
+  },
+  "email": "test@test.dk",
+  "event": {
+    "$oid": "5f3fd1a77e525a19cce3b685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4b760aef71b366cc4453db"
+  },
+  "email": "mb@videndjurs.dk",
+  "event": {
+    "$oid": "5f3fd1a77e525a19cce3b685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4b7645ef71b366cc4453dc"
+  },
+  "email": "mb@videndjurs.dk",
+  "event": {
+    "$oid": "5f403f61dd832b22b486fa28"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4b7683ef71b366cc4453dd"
+  },
+  "email": "mbr@videndjurs.dk",
+  "event": {
+    "$oid": "5f4ae8deef71b366cc4453da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4b7735ef71b366cc4453de"
+  },
+  "email": "fff@jkdfj.dk",
+  "event": {
+    "$oid": "5f4ae8deef71b366cc4453da"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5a7369dfc54b4f54fffaf7"
+  },
+  "event": {
+    "$oid": "5f3fd1a77e525a19cce3b685"
+  },
+  "email": "sakjskdj@jksdj.sk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5a73b5dfc54b4f54fffaf8"
+  },
+  "event": {
+    "$oid": "5f3fd1a77e525a19cce3b685"
+  },
+  "email": "jfkdjf@jdkf.dk",
+  "__v": 0
+}]

@@ -1,0 +1,41 @@
+@port = 5021
+@route = sponsor
+
+### 
+
+GET http://localhost:{{port}}/{{route}}
+
+###
+
+GET http://localhost:{{port}}/{{route}}/5f3ed8418a099d2c20d226d3
+
+
+// FØLGENDE KRÆVER LOGIN -----------------------
+
+###
+
+DELETE http://localhost:{{port}}/{{route}}/admin/5f3f6150b269265be85496de
+
+
+### OBS POST og PUT SKAL TESTES I POSTMAN FORDI DER SKAL IMAGE MED!
+
+###
+
+//POST http://localhost:{{port}}/{{route}}/admin
+//content-type: application/json
+
+//{
+//    "navn": "Ubuntu",
+//    "logo": "ub.jpg",
+//    "sponsorkategori": "5f40008e3b1b7155b4443c48"
+//    
+//}
+
+###
+
+//PUT http://localhost:{{port}}/{{route}}/admin/5f3f613bb269265be85496dd
+//content-type: application/json
+//
+//{
+//    "regionnavn": "Nordjylland"
+//}

@@ -1,0 +1,73 @@
+@port = 5021
+@route = event
+
+
+### GET ALLE
+
+GET http://localhost:{{port}}/{{route}}
+
+
+### GET UD FRA ID
+
+GET http://localhost:{{port}}/{{route}}/5f3fd1a77e525a19cce3b685
+
+
+### GET - SØGNING AVANCERET
+
+GET http://localhost:{{port}}/{{route}}/soegavanceret?titel=løb&distance_min=0&distance_max=300000&pris_min=0&pris_max=500&region=5f3f613bb269265be85496dd
+
+
+### GET - SØG DATO 
+
+GET http://localhost:{{port}}/{{route}}/soegdato?dato_fra=2021-03-25
+
+
+### GET - SØGNING SIMPEL
+
+GET http://localhost:{{port}}/{{route}}/soeg/løb
+
+
+// FØLGENDE KRÆVER LOGIN -----------------------
+
+### DELETE
+
+DELETE http://localhost:{{port}}/{{route}}/admin/5f3ee04624d1033018ca1254
+
+
+
+
+### OBS POST og PUT SKAL TESTES I POSTMAN FORDI DER SKAL IMAGE MED!
+
+
+### POST
+
+//POST http://localhost:{{port}}/{{route}}/admin
+//content-type: application/json
+//
+//{
+//    "titel": "Test3",
+//    "dato": "2020-02-17",
+//    "beskrivelse": "Ny test fra rest",
+//    "distance": 30,
+//    "pris": 200,
+//    "billede": "loeb1.jpg",
+//    "antalpladser": 40,
+//    "region": "5f3fc6a432880d01a828b7ce"
+//}
+
+
+### PUT
+
+//PUT http://localhost:{{port}}/{{route}}/admin/5f40d63219a6a75db4f7cef2
+//content-type: application/json
+//
+//{
+//    "titel": "Løbet i Midt",
+//    "dato": "2020-08-21",
+//    "beskrivelse": "Heste grise køer og får",
+//    "distance": 10,
+//    "pris": 200,
+//    "billede": "loeb1.jpg",
+//    "antalpladser": 40,
+//    "region": "5f3f613bb269265be85496dd"
+//}

@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "5f412b262147171acccbd641"
+  },
+  "fornavn": "Jens Christian",
+  "efternavn": "Larsen",
+  "email": "jl@runit.dk",
+  "billede": "christian.png",
+  "beskrivelse": "Hovedbestyrelsesmøder, modtagelse/distribution af div. post, kataloger og blade, annoncering/tilrettelæggelse af generalforsamling, dagsorden til bestyrelsesmøder, planlægning af møder",
+  "bestyrelsespost": {
+    "$oid": "5f3fcbc518e3c037908f4f2e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f412cd89fb4355e28030a5b"
+  },
+  "fornavn": "Claus",
+  "efternavn": "Jensen",
+  "email": "cj@runit.dk",
+  "billede": "claus.png",
+  "beskrivelse": "Formandens højre hånd; 'stand-in'",
+  "__v": 0,
+  "bestyrelsespost": {
+    "$oid": "5f4129d8d985f25920ec1bc9"
+  }
+},{
+  "_id": {
+    "$oid": "5f412d1a9fb4355e28030a5c"
+  },
+  "fornavn": "Jens",
+  "efternavn": "Nielsen",
+  "email": "jn@runit.dk",
+  "billede": "jens.png",
+  "beskrivelse": "Skriver referat af alle møder og sørger for udsendelse inden 8 dage, protokolføring , ajourføring af adresseliste over instruktører/bestyrelsesmedlemmer , udsendelse af mødeindkaldelser ",
+  "bestyrelsespost": {
+    "$oid": "5f412ae4810e2232e03cf66c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f412d899fb4355e28030a5d"
+  },
+  "fornavn": "Jørgen",
+  "efternavn": "Svendsen",
+  "email": "js@runit.dk",
+  "billede": "joergen.png",
+  "beskrivelse": "Lønregnskab + udbetaling af løn, betaling af udgifter, bogføring af indtægter og udgifter, årsregnskab Revisorkontakt Løbende kontrol med økonomien Told og Skat",
+  "bestyrelsespost": {
+    "$oid": "5f3fcbcb18e3c037908f4f2f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f412dc09fb4355e28030a5e"
+  },
+  "fornavn": "Karen",
+  "efternavn": "Karlsen",
+  "email": "kk@runit.dk",
+  "billede": "karen.png",
+  "beskrivelse": "Bestyrelsesmedlem gennem mange år",
+  "bestyrelsespost": {
+    "$oid": "5f3fcbd218e3c037908f4f30"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f412ddd9fb4355e28030a5f"
+  },
+  "fornavn": "Lene",
+  "efternavn": "Johansen",
+  "email": "lj@runit.dk",
+  "billede": "lene.png",
+  "beskrivelse": "Bestyrelsesmedlem med ben i næsen",
+  "bestyrelsespost": {
+    "$oid": "5f3fcbd218e3c037908f4f30"
+  },
+  "__v": 0
+}]

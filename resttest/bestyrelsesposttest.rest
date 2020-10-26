@@ -1,0 +1,33 @@
+@port = 5021
+@route = bestyrelsespost
+
+
+### 
+
+GET http://localhost:{{port}}/{{route}}
+
+###
+
+GET http://localhost:{{port}}/{{route}}/5f3edbda06a26048acfd6e92
+
+###
+
+POST http://localhost:{{port}}/{{route}}/admin
+content-type: application/json
+
+{
+    "post": "Næstformand"
+}
+
+###
+
+PUT http://localhost:{{port}}/{{route}}/admin/5f3fcbd218e3c037908f4f30
+content-type: application/json
+
+{
+    "post": "Bestyrelsesmedlem"
+}
+
+###
+
+DELETE http://localhost:{{port}}/{{route}}/admin/5f3ee1aa24d1033018ca1255

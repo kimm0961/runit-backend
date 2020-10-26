@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "5f3fcbc518e3c037908f4f2e"
+  },
+  "post": "Formand",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3fcbcb18e3c037908f4f2f"
+  },
+  "post": "Kasserer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3fcbd218e3c037908f4f30"
+  },
+  "post": "Bestyrelsesmedlem",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4129d8d985f25920ec1bc9"
+  },
+  "post": "Næstformand",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f412ae4810e2232e03cf66c"
+  },
+  "post": "Sekretær",
+  "__v": 0
+}]

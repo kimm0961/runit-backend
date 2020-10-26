@@ -1,0 +1,49 @@
+@port = 5021
+@route = bestyrelse
+
+###  GET ALLE
+
+GET http://localhost:{{port}}/{{route}}
+
+
+### GET UD FRA ID
+
+GET http://localhost:{{port}}/{{route}}/5f3fcc8b18e3c037908f4f31
+
+
+
+// FØLGENDE KRÆVER LOGIN -----------------------
+
+### SLET 
+
+DELETE http://localhost:{{port}}/{{route}}/admin/5f3fcc8b18e3c037908f4f31
+
+
+### OBS POST og PUT SKAL TESTES I POSTMAN FORDI DER SKAL IMAGE MED!
+
+//POST http://localhost:{{port}}/{{route}}/admin
+//content-type: application/json
+//
+//{
+//    "fornavn": "Test",
+//    "efternavn": "Johansen",
+//    "email": "lj@runit.dk",
+//    "billede": "lj.jpg",
+//    "beskrivelse": "Bestyrelsesmedlem med ben i næsen",
+//    "bestyrelsespost": "5f3fcbd218e3c037908f4f30"
+//}
+//
+###
+
+//PUT http://localhost:{{port}}/{{route}}/admin/5f412cd89fb4355e28030a5b
+//content-type: application/json
+//
+//{
+//   "fornavn": "Clausine",
+//    "efternavn": "Jensen",
+//    "email": "cj@runit.dk",
+//    "billede": "cj.jpg",
+//    "beskrivelse": "Formandens højre hånd; 'stand-in'",
+//    "bestyrelsespost": "5f4129d8d985f25920ec1bc9"
+//}
+

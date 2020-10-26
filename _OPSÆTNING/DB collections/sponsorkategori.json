@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5f4000703b1b7155b4443c47"
+  },
+  "kategori": "Guld",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "kategori": "Sølv",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e7f4810e2232e03cf672"
+  },
+  "kategori": "Almindelig samarbejdspartner",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f67b2034b3af734d0ccc44a"
+  },
+  "kategori": "Jern",
+  "__v": 0
+}]

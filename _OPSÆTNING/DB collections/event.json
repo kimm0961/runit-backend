@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "5f3fd2207e525a19cce3b687"
+  },
+  "titel": "Egå Engsø Løbet 1234",
+  "dato": {
+    "$date": "2020-10-15T04:30:00Z"
+  },
+  "beskrivelse": "Løb rundt om den smukke Egå Engsø påskemandag 28. marts 2016. Motionsløb for hygge- og hurtigløbere mulighed for PR! Familievenligt løb med påskeæg til de første 150 børn under 15 år over målstregen Elektronisk tidtagning Gratis buff tube til alle voksne tilmeldte",
+  "distance": 10000,
+  "pris": 1,
+  "billede": "EgaaEngsoeLoebet.jpg",
+  "antalpladser": 100,
+  "region": {
+    "$oid": "5f3f613bb269265be85496dd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f403f61dd832b22b486fa28"
+  },
+  "titel": "Ultraløbet Fyr til Fyr",
+  "dato": {
+    "$date": "2020-09-30T22:30:00Z"
+  },
+  "beskrivelse": "Danmarks smukkeste ultraløb på langs af Bornholm går fra Dueodde Fyr i syd til målet ved Hammer Fyr på øens nordende. Undervejs kommer løberne forbi Svaneke Fyr og Hammerodde Fyr samt de to depoter i Svaneke og Gudhjem. Ruten på 60 km følger den gamle redningssti langs med østkysten.",
+  "distance": 60000,
+  "pris": 350,
+  "billede": "UltraloebetFyrtilFyr.jpg",
+  "antalpladser": 4,
+  "region": {
+    "$oid": "5f42e4ed810e2232e03cf66e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f403fd2f315ca4c904a90e9"
+  },
+  "titel": "Skovløbet Skanderborg",
+  "dato": {
+    "$date": "2020-11-08T10:00:00Z"
+  },
+  "beskrivelse": "Igen i år indbyder Skanderborg Løbeklub til en smuk og varieret løbetur på 7,5 km i Vestermølleskoven og Skvæt skoven søndag 10. april. En del af ruten løbes på smalle stier, skrappe stigninger og trapper og løberne kan blandt andet prøve kræfter med udfordringerne",
+  "distance": 7500,
+  "pris": 80,
+  "billede": "SkovloebetSkanderborg.jpg",
+  "antalpladser": 4,
+  "__v": 0,
+  "region": {
+    "$oid": "5f3f613bb269265be85496dd"
+  }
+},{
+  "_id": {
+    "$oid": "5f40d359001364543867c402"
+  },
+  "titel": "Smid tøjet løbet",
+  "dato": {
+    "$date": "2020-11-16T10:00:00Z"
+  },
+  "beskrivelse": "Nu kan du løbe og komme af med dit aflagte tøj ved at donere det til en god sag. Samtidig får du en dag fuld af god musik, forplejning og er omringet af andre glade Smid Tøjet Løbere. Smid Tøjet Løbet er et nyt koncept, som giver dig det sunde, det sjove og det meningsfulde på én gang. Vi skaber en festlig anledning til en helt ny måde at donere tøj på til Røde Kors. ",
+  "distance": 5000,
+  "pris": 250,
+  "billede": "Smidtoejetloebet.jpg",
+  "antalpladser": 1,
+  "region": {
+    "$oid": "5f3f613bb269265be85496dd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f40d63219a6a75db4f7cef2"
+  },
+  "titel": "Nike Marathontest 4",
+  "dato": {
+    "$date": "2020-11-07T09:30:00Z"
+  },
+  "beskrivelse": "Nike Marathontest 4 er det sidste af de fire testløb frem mod Telenor Copenhagen Marathon. Det er samtidig et almindeligt motionsløb på 21,1 km for alle, der har lyst.",
+  "distance": 21100,
+  "pris": 180,
+  "billede": "nikemarathontest4.jpg",
+  "antalpladser": 120,
+  "region": {
+    "$oid": "5f42e4f5810e2232e03cf66f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f429f032012914a940e3d2b"
+  },
+  "titel": "VUC Vesterskovsløbet",
+  "dato": {
+    "$date": "2020-10-27T12:30:00Z"
+  },
+  "beskrivelse": "VUC Vesterskovsløbet er et løb for alle. Ruterne ligger i skøn natur og by- og havnemiljø, og deltagernes udgangspunkt spænder lige fra personer som aldrig har løbet før, og til eliteløberen, børn og gamle. Samtidig er der masser af liv i målområdet, både før og efter løbet.",
+  "distance": 5700,
+  "pris": 150,
+  "antalpladser": 20,
+  "region": {
+    "$oid": "5f42e4e4810e2232e03cf66d"
+  },
+  "billede": "VUCVesterskovsloebet.JPG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42fa3a810e2232e03cf67e"
+  },
+  "titel": "Eventyrløbet",
+  "dato": {
+    "$date": "2020-12-05T16:00:00Z"
+  },
+  "beskrivelse": "I år afholder vi Eventyrløbet for 39. gang, og tilmeldingen til årets løb er nu åben Husk at du med et startnummer også er inviteret til stor dobbeltkoncert i Kastegården med Joey Moe og Michael Hardinger Band efter løbet.",
+  "distance": 21100,
+  "pris": 150,
+  "antalpladser": 30,
+  "region": {
+    "$oid": "5f42e4ed810e2232e03cf66e"
+  },
+  "billede": "Eventyrloebet.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42fabd810e2232e03cf67f"
+  },
+  "titel": "Firkløver 50/50",
+  "dato": {
+    "$date": "2020-12-15T12:00:00Z"
+  },
+  "beskrivelse": "Trail i Kongernes Nordsjælland Ultraløb & Trail - Fra brostens pavéer fra renaissancen til fede singletrack i tæt skov over bølgende overdrev, søer og strand - du får ikke et flottere, hårdere og sammenhængende spor i den kommende Nationalpark Kongernes Nordsjælland. ",
+  "distance": 50000,
+  "pris": 400,
+  "antalpladser": 20,
+  "region": {
+    "$oid": "5f42e4f5810e2232e03cf66f"
+  },
+  "billede": "Firkloever5050.JPG",
+  "__v": 0
+}]

@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "5f4001186936dc1d44b4b9f6"
+  },
+  "navn": "7up",
+  "logo": "7up.png",
+  "sponsorkategori": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f40015d8378a84bfc07da7e"
+  },
+  "navn": "Adidas",
+  "logo": "adidas-logo.jpg",
+  "sponsorkategori": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42a3fd2b002b5700e966cb"
+  },
+  "navn": "Circle",
+  "sponsorkategori": {
+    "$oid": "5f42e7f4810e2232e03cf672"
+  },
+  "logo": "circle.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e8cb810e2232e03cf673"
+  },
+  "navn": "Coca Cola",
+  "sponsorkategori": {
+    "$oid": "5f4000703b1b7155b4443c47"
+  },
+  "logo": "coca-cola-logo.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e8de810e2232e03cf674"
+  },
+  "navn": "Fanta",
+  "sponsorkategori": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "logo": "fanta.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e8f0810e2232e03cf675"
+  },
+  "navn": "Hummel",
+  "sponsorkategori": {
+    "$oid": "5f4000703b1b7155b4443c47"
+  },
+  "logo": "hummel-logo.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e906810e2232e03cf676"
+  },
+  "navn": "Intel",
+  "sponsorkategori": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "logo": "intel.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e918810e2232e03cf677"
+  },
+  "navn": "LG",
+  "sponsorkategori": {
+    "$oid": "5f42e7f4810e2232e03cf672"
+  },
+  "logo": "lg.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e92b810e2232e03cf678"
+  },
+  "navn": "Nike",
+  "sponsorkategori": {
+    "$oid": "5f4000703b1b7155b4443c47"
+  },
+  "logo": "nike.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e940810e2232e03cf679"
+  },
+  "navn": "Pepsi",
+  "sponsorkategori": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "logo": "pepsi.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e954810e2232e03cf67a"
+  },
+  "navn": "Smukfest",
+  "sponsorkategori": {
+    "$oid": "5f4000703b1b7155b4443c47"
+  },
+  "logo": "smukfest.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e965810e2232e03cf67b"
+  },
+  "navn": "Starbuck",
+  "sponsorkategori": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "logo": "starbuck.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e976810e2232e03cf67c"
+  },
+  "navn": "Ubuntu",
+  "sponsorkategori": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "logo": "ubunto.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e987810e2232e03cf67d"
+  },
+  "navn": "Vikan",
+  "sponsorkategori": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "logo": "vikan.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f437284d407e30264874de9"
+  },
+  "navn": "Ubuntu",
+  "sponsorkategori": {
+    "$oid": "5f40008e3b1b7155b4443c48"
+  },
+  "logo": "6Tyogba8c.jpg",
+  "__v": 0
+}]

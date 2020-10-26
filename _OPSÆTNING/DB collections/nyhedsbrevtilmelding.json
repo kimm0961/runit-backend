@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5f3fd785f70ff73cf496d2a8"
+  },
+  "email": "familienjensenk@gmail.dk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42e566810e2232e03cf671"
+  },
+  "email": "hans_peter@gmail.dk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42eb01ba229b4e9ce60a67"
+  },
+  "email": "xxx@xxx.dk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f46c6acdc17fa6de07b5e91"
+  },
+  "email": "fkdjfdk@jkdjf.dk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f46c833dc17fa6de07b5e92"
+  },
+  "email": "fhkfjdk@hgjghfj.dk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f58c326dfc54b4f54fffae5"
+  },
+  "email": "sakjskdj@jksdj.sk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f58c340dfc54b4f54fffae6"
+  },
+  "email": "sjdksjk@hdjsdh,sj",
+  "__v": 0
+}]

@@ -1,0 +1,35 @@
+@port = 5021
+@route = adminbruger
+
+
+### 
+
+GET http://localhost:{{port}}/{{route}}
+
+###
+
+GET http://localhost:{{port}}/{{route}}/5f3edbda06a26048acfd6e92
+
+###
+
+POST http://localhost:{{port}}/{{route}}/admin
+content-type: application/json
+
+{
+    "brugernavn": "Test2",
+    "password": "abc123"
+}
+
+###
+
+PUT http://localhost:{{port}}/{{route}}/admin/5f40063ade8475093014b6e5
+content-type: application/json
+
+{
+    "brugernavn": "Test",
+    "password": "abc123"
+}
+
+###
+
+DELETE http://localhost:{{port}}/{{route}}/admin/5f40063ade8475093014b6e5
